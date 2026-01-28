@@ -1,6 +1,6 @@
 # 🏠 Kaggle Housing Price Prediction 
 
-This project builds an end-to-end machine learning pipeline to predict house sale prices using the **Ames Housing dataset**.  
+This project builds an end-to-end machine learning pipeline to predict house sale prices using the [Kaggle Housing dataset](https://www.kaggle.com/competitions/home-data-for-ml-course/overview).   
 The workflow covers data loading, preprocessing, feature engineering, model training, and submission file generation for Kaggle.
 
 The model is built **from scratch using scikit-learn pipelines and XGBoost**, with proper handling of missing values and categorical variables.
